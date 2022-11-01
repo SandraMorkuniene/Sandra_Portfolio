@@ -26,5 +26,5 @@ Dataset used for this analysis can be found [here](https://www.kaggle.com/datase
 Python was used to cut and upload data to BiqQuery. SQL queries in BigQuery was used to extract and transform needed data. DataStudio used to prepare a dashboard.
 Report and Powerpoint presentation can be found here: 
 
-[Interactive Product Analyst Dashboard]([https://datastudio.google.com/u/0/reporting/8d7b3081-4feb-4db0-b6b4-9ec439294384/page/GYA1C](https://datastudio.google.com/u/0/reporting/833d4a88-88dd-465b-91b0-6e0a79451c7a/page/cjK4C))
+[Interactive Product Analyst Dashboard](https://datastudio.google.com/u/0/reporting/833d4a88-88dd-465b-91b0-6e0a79451c7a/page/cjK4C)
 
