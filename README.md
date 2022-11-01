@@ -19,7 +19,7 @@ SQL queries in BigQuery was used to extract and transform needed data. DataStudi
 
 
 
-**Project 2: Executive Leadership and Sales Department Dashboards**
+**Project 2: Online store analysis: events of “remove from cart”: a concern or a hidden value?**
 
 The aim of this project was at first to prepare an updating Product analyst dashboard using online shop events dataset. The concerning number of "remove from cart" events was identified and report was prepared based on request to evaluate whether this might be beneficial or vice versa for a business. Analysis results were presented accordingly. 
 Dataset used for this analysis can be found [here](https://www.kaggle.com/datasets/nowingkim/ecommerce-data-cosmetics-shop). 
