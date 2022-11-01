@@ -1,5 +1,5 @@
 # Data Analytics Portfolio
-Data Analytics Portfolio
+Sandra Morkūnienė
 
 
 **Project 1: Executive Leadership and Sales Department Dashboards**
