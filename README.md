@@ -32,7 +32,15 @@ SQL queries in BigQuery was used to extract and transform needed data. DataStudi
 
 ![](https://github.com/SandraMorkuniene/Sandra_Portfolio/blob/main/images/Sales_dashboard_preview.jpg)
 
+&nbsp;
 
+**Project 3: Analysis of 2016 USA President Elections datasets and provided insights**
+
+The aim of this work was to analyze 2016 United States primary and main President elections results and define aspects on which Donald Trump supporting states differed from Hillary Clinton supporting states to shape future election campains. Overview was made not only for 2016 primary and the main elections but also historical voting traditions for USA states was presented. Donald Trump supporting states and Hillary Clinton supporting states were compared on the aspects (country level has also been taken into account ): the size of the states; age, gender, race, education, cultural diversity of the states; wealthness of the states.
+Voting trend and changes related to 2016 elections states category on demographic, size, wealthiness aspects were compared as well. Insights and where to focus next provided as the result of this analysis. Python was used to clean, transform, analyze data. Please follow the link to reach the project:
+
+&nbsp;
+[Overview of 2016 USA President Elections](https://github.com/SandraMorkuniene/2016-USA-President-Elections-Overview)
 
 
 
