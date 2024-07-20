@@ -9,7 +9,7 @@ The aim of this project was at first to prepare an updating Product analyst dash
 Dataset used for this analysis can be found [here](https://www.kaggle.com/datasets/nowingkim/ecommerce-data-cosmetics-shop). 
 Python was used to cut and upload data to BiqQuery. SQL queries in BigQuery was used to extract and transform needed data. DataStudio used to prepare a dashboard.
 Report and Powerpoint presentation can be found [here](https://github.com/SandraMorkuniene/Sandra_Portfolio/blob/main/Project%20files/Report.pdf) and 
-[here](https://github.com/SandraMorkuniene/Sandra_Portfolio/blob/main/Project%20files/Presentation_SMorkuniene.pptx).
+[here](https://github.com/SandraMorkuniene/Sandra_Portfolio/blob/main/Project%20files/Presentation_SMorkuniene.pptx). SQL queries could be found [here](https://github.com/SandraMorkuniene/Sandra_Portfolio/blob/main/Project%20files/SQLqueries_working_file.xlsx).
 
 [Interactive Product Analyst Dashboard](https://datastudio.google.com/u/0/reporting/833d4a88-88dd-465b-91b0-6e0a79451c7a/page/cjK4C)
 
@@ -41,6 +41,16 @@ Voting trend and changes related to 2016 elections states category on demographi
 
 &nbsp;
 [Overview of 2016 USA President Elections](https://github.com/SandraMorkuniene/2016-USA-President-Elections-Overview)
+
+
+&nbsp;
+
+**Project 4: Analysis of the openess to disclose mental health issues in tech industry**
+
+The aim of this work was to analyze Mental Health in the Tech Industry dataset and evaluate the openess to disclose mental health issues in different work contexts such as while talking with the potential employer (also compare to physical health issues); while talking with the coworkers or direct manager. Gender also will be taken into account while evaluating the openess to talk.  Insights and practical implications provided as the result of this analysis. SQL was used to clean, transform, prepare data. Analysis was conducted with Python pandas. Please follow the link to reach the project:
+
+&nbsp;
+[Mental health issues in different work contexts](https://github.com/SandraMorkuniene/Mental-health-in-tech-industry/tree/main)
 
 
 
