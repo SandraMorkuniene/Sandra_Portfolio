@@ -6,7 +6,7 @@ Sandra Morkūnienė
 **Project 1: AI chatbot**
 
 The aim of this work was to create smart AI chatbot. Created app allows user to choose from two modes - without documents and with documents uploaded in various formats - and have a conversation with AI chatbot which could answer to the user's questions taking into account provided documents and past questions within a session context.
-Online AI chatbot application could be found [here](https://aichatbot-9aa5zdmjfdrkxh9hehrdwv.streamlit.app/) . Project code is under this link:
+Online AI chatbot application could be found [here](https://aichatbot-9aa5zdmjfdrkxh9hehrdwv.streamlit.app/) . Project's code is under this link:
 
 [AI chatbot](https://github.com/SandraMorkuniene/AI_chatbot/tree/main)
 
