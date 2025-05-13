@@ -3,7 +3,17 @@ Sandra Morkūnienė
 
 &nbsp;
 
-**Project 1: Analysis of 2016 USA President Elections datasets and provided insights**
+**Project 1: AI chatbot**
+
+The aim of this work was to create smart AI chatbot. Created app allows user to choose from two modes - without documents and with documents uploaded in various formats - and have a conversation with AI chatbot which could answer to the user's questions taking into account provided documents and past questions within a session context.
+Online AI chatbot application could be found [here](https://aichatbot-9aa5zdmjfdrkxh9hehrdwv.streamlit.app/) . Project code is under this link:
+
+[AI chatbot](https://github.com/SandraMorkuniene/AI_chatbot/tree/main)
+
+
+&nbsp;
+
+**Project 2: Analysis of 2016 USA President Elections datasets and provided insights**
 
 The aim of this work was to analyze 2016 United States primary and main President elections results and define aspects on which Donald Trump supporting states differed from Hillary Clinton supporting states to shape future election campains. Overview was made not only for 2016 primary and the main elections but also historical voting traditions for USA states was presented. Donald Trump supporting states and Hillary Clinton supporting states were compared on the aspects (country level has also been taken into account ): the size of the states; age, gender, race, education, cultural diversity of the states; wealthness of the states.
 Voting trend and changes related to 2016 elections states category on demographic, size, wealthiness aspects were compared as well. Insights and where to focus next provided as the result of this analysis. Python was used to clean, transform, analyze data. Please follow the link to reach the project:
@@ -14,7 +24,7 @@ Voting trend and changes related to 2016 elections states category on demographi
 
 &nbsp;
 
-**Project 2: Analysis of A/B testing for online game**
+**Project 3: Analysis of A/B testing for online game**
 
 The aim of this work is to analyze dataset of A/B testing and after evaluation of the results provide with recommendation whether to launch or not to launch one or another version of variant. Python was used to clean, transform, analyze data. Please follow the link to reach the project:
 
@@ -23,7 +33,7 @@ The aim of this work is to analyze dataset of A/B testing and after evaluation o
 
 &nbsp;
 
-**Project 3: Analysis of the openess to disclose mental health issues in tech industry**
+**Project 4: Analysis of the openess to disclose mental health issues in tech industry**
 
 The aim of this work was to analyze Mental Health in the Tech Industry dataset and evaluate the openess to disclose mental health issues in different work contexts such as while talking with the potential employer (also compare to physical health issues); while talking with the coworkers or direct manager. Gender also will be taken into account while evaluating the openess to talk.  Insights and practical implications provided as the result of this analysis. SQL was used to clean, transform, prepare data. Analysis was conducted with Python pandas. Please follow the link to reach the project:
 
@@ -32,7 +42,7 @@ The aim of this work was to analyze Mental Health in the Tech Industry dataset a
 
 &nbsp;
 
-**Project 4: Online store analysis: events of “remove from cart”: a threat or a hidden value?**
+**Project 5: Online store analysis: events of “remove from cart”: a threat or a hidden value?**
 
 The aim of this project was at first to prepare an updating Product analyst dashboard using online shop events dataset. The concerning number of "remove from cart" events was identified and report was prepared based on request to evaluate whether this might be beneficial or vice versa for a business. Analysis results were presented accordingly. 
 Dataset used for this analysis can be found [here](https://www.kaggle.com/datasets/nowingkim/ecommerce-data-cosmetics-shop). 
@@ -45,7 +55,7 @@ Report and Powerpoint presentation can be found [here](https://github.com/Sandra
 
 &nbsp;
 
-**Project 5: Executive Leadership and Sales Department Dashboards**
+**Project 6: Executive Leadership and Sales Department Dashboards**
 
 The aim of this project was to prepare the dashboards for the different audiences of the same company: executive leadership and sales department.
 AdwentureWorks is a company manufacturing bicycles and selling them together with accompanied goods. Company's database schema can be found [here](https://i0.wp.com/improveandrepeat.com/wp-content/uploads/2018/12/AdvWorksOLTPSchemaVisio.png?ssl=1).
