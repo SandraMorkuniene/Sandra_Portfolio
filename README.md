@@ -3,7 +3,7 @@ Sandra Morkūnienė
 
 &nbsp;
 
-**Project 1: Lead to Order Revenue manager dashboard for logistics company**
+**Project 1: Lead-to-Order Revenue manager dashboard for logistics company**
 
 The aim of this work was to create analytical tool to monitor revenue leakage in logistics company for Lead-to-Order revenue manager. Created dashboard not only enables manager to see excecutive overview but also to do drills and export alerts to be able to take certain disciplinary actions. 
 Revenue manager dashboard could be found [here](https://revenuedashboard-qewekprxnqpxdwai75r542.streamlit.app/) . 
@@ -25,8 +25,8 @@ Online AI chatbot application could be found [here](https://aichatbot-9aa5zdmjfd
 
 The aim of this work is to analyze dataset of A/B testing and after evaluation of the results provide with recommendation whether to launch or not to launch one or another version of variant. Python was used to clean, transform, analyze data. Please follow the link to reach the project:
 
-&nbsp;
 [A/B testing for online game different versions](https://github.com/SandraMorkuniene/A-B-testing-for-online-game)
+
 
 &nbsp;
 
