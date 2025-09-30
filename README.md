@@ -40,6 +40,7 @@ Voting trend and changes related to 2016 elections states category on demographi
 
 
 &nbsp;
+
 **Project 5: Analysis of the openess to disclose mental health issues in tech industry**
 
 The aim of this work was to analyze Mental Health in the Tech Industry dataset and evaluate the openess to disclose mental health issues in different work contexts such as while talking with the potential employer (also compare to physical health issues); while talking with the coworkers or direct manager. Gender also will be taken into account while evaluating the openess to talk.  Insights and practical implications provided as the result of this analysis. SQL was used to clean, transform, prepare data. Analysis was conducted with Python pandas. Please follow the link to reach the project:
